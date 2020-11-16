@@ -16,9 +16,7 @@
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-[](https://www.cs.cmu.edu/~15131/f17/)
-
-CMU Great Practical Ideas in CS 
+[CMU Great Practical Ideas in CS ](https://www.cs.cmu.edu/~15131/f17/)
 
 ## Databases
 
@@ -46,15 +44,14 @@ CMU Great Practical Ideas in CS
 
 [Book](https://git-scm.com/book)
 
-[Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
+[Learn Git- Git tutorials, workflows and command| Atlassian Git Tutorial](https://www.atlassian.com/git)
 
 [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-[](https://www.cs.cmu.edu/~15131/f17/)
+[CMU Great Practical Ideas in CS ](https://www.cs.cmu.edu/~15131/f17/)
 
-CMU Great Practical Ideas in CS 
 
 ## Data Engineering
 
@@ -74,16 +71,7 @@ Distributed Systems for Fun and Profit
 
 [flpezet/analytics-readings](https://github.com/flpezet/analytics-readings#sql)
 
-## Mathematics
-
-## Docker
-
-## Kubernetes
-
-## Machine Learning
 
 ## Misc
-
-[Python ](https://www.notion.so/Python-b31c0790f6de4858932f979ec1489203)
 
 [free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://www.notion.so/free-programming-books-free-programming-books-md-at-master-EbookFoundation-free-programming-books-adf21064edf44558a1b390c0a10803ae)

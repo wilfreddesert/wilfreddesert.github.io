@@ -42,9 +42,9 @@
 
 ## Git
 
-[Book](https://git-scm.com/book)
+[Pro Git Book](https://git-scm.com/book)
 
-[Learn Git- Git tutorials, workflows and command| Atlassian Git Tutorial](https://www.atlassian.com/git)
+[Atlassian Git Tutorial](https://www.atlassian.com/git)
 
 [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
@@ -65,7 +65,7 @@ Distributed Systems for Fun and Profit
 
 [6.824 Home Page: Spring 2020](https://pdos.csail.mit.edu/6.824/)
 
-[Distributed Systems 3rd edition (2017) | DISTRIBUTED-SYSTEMS.NET](https://www.distributed-systems.net/index.php/books/ds3/)
+[Distributed Systems 3rd edition (2017)](https://www.distributed-systems.net/index.php/books/ds3/)
 
 [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
 
@@ -74,4 +74,4 @@ Distributed Systems for Fun and Profit
 
 ## Misc
 
-[free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://www.notion.so/free-programming-books-free-programming-books-md-at-master-EbookFoundation-free-programming-books-adf21064edf44558a1b390c0a10803ae)
+[free-programming-books/free-programming-books.md at master](https://www.notion.so/free-programming-books-free-programming-books-md-at-master-EbookFoundation-free-programming-books-adf21064edf44558a1b390c0a10803ae)

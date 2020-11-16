@@ -59,9 +59,7 @@
 
 [Scalable Web Architecture and Distributed Systems](http://aosabook.org/en/distsys.html)
 
-[Distributed systems](http://book.mixu.net/distsys/single-page.html)
-
-Distributed Systems for Fun and Profit
+[Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 
 [6.824 Home Page: Spring 2020](https://pdos.csail.mit.edu/6.824/)
 

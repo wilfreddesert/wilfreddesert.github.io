@@ -1,37 +1,89 @@
-## wdesert's thoughts on programming and life
+## Python
 
-You can use the [editor on GitHub](https://github.com/wilfreddesert/wilfreddesert.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- Fluent Python  📕💰
+- Effective Python 📕💰
+- Python Cookbook 📕💰
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[vinta/awesome-python](https://github.com/vinta/awesome-python)
 
-### Markdown
+[The Little Book of Python Anti-Patterns - Python Anti-Patterns documentation](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Linux
 
-```markdown
-Syntax highlighted code block
+[LinuxCommand.org: Resources](http://linuxcommand.org/lc3_resources.php)
 
-# Header 1
-## Header 2
-### Header 3
+[BashGuide](https://mywiki.wooledge.org/BashGuide)
 
-- Bulleted
-- List
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-1. Numbered
-2. List
+[](https://www.cs.cmu.edu/~15131/f17/)
 
-**Bold** and _Italic_ and `Code` text
+CMU Great Practical Ideas in CS 
 
-[Link](url) and ![Image](src)
-```
+## Databases
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[CMU 15-445/645 :: Intro to Database Systems (Fall 2019)](https://15445.courses.cs.cmu.edu/fall2019/)
 
-### Jekyll Themes
+[CS186Berkeley](https://www.youtube.com/user/CS186Berkeley/playlists)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wilfreddesert/wilfreddesert.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Modern SQL: A lot has changed since SQL-92](https://modern-sql.com/)
 
-### Support or Contact
+[SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+
+[Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+
+[SQLZOO](https://sqlzoo.net/)
+
+[Упражнения по SQL](https://www.sql-ex.ru/?Lang=0)
+
+[pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
+
+- Database Design for Mere Mortals 📕💰
+
+## Git
+
+[Book](https://git-scm.com/book)
+
+[Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
+
+[git - the simple guide](https://rogerdudler.github.io/git-guide/)
+
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+[](https://www.cs.cmu.edu/~15131/f17/)
+
+CMU Great Practical Ideas in CS 
+
+## Data Engineering
+
+[Awesome Data Engineering - Best resources, books, courses for learning](https://awesomedataengineering.com/)
+
+[Scalable Web Architecture and Distributed Systems](http://aosabook.org/en/distsys.html)
+
+[Distributed systems](http://book.mixu.net/distsys/single-page.html)
+
+Distributed Systems for Fun and Profit
+
+[6.824 Home Page: Spring 2020](https://pdos.csail.mit.edu/6.824/)
+
+[Distributed Systems 3rd edition (2017) | DISTRIBUTED-SYSTEMS.NET](https://www.distributed-systems.net/index.php/books/ds3/)
+
+[theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+
+[flpezet/analytics-readings](https://github.com/flpezet/analytics-readings#sql)
+
+## Mathematics
+
+## Docker
+
+## Kubernetes
+
+## Machine Learning
+
+## Misc
+
+[Python ](https://www.notion.so/Python-b31c0790f6de4858932f979ec1489203)
+
+[free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://www.notion.so/free-programming-books-free-programming-books-md-at-master-EbookFoundation-free-programming-books-adf21064edf44558a1b390c0a10803ae)
